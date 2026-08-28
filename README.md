@@ -34,17 +34,18 @@ I care more about the shape of a system â€” how the pieces talk to each other â€
 <br/>
 
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=default">
   <img alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=tokyonight">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=default">
   <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=tokyonight">
 </picture>
+</p>
 
 <br/>
 
