@@ -1,6 +1,42 @@
-![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=radical)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Lo!👋&animation=fadeIn&type=waving&color=gradient&height=120" />
+
+### Accounts & Documents Specialist → Aspiring Systems Analyst / Solutions Architect
+
+I'm an IT graduate working in a non-IT role — handling accounts and documents at a pharmaceutical company — where I've ended up building the internal tools nobody else was going to build. No dedicated IT department, so if something needs automating, I design and ship it myself: file watchers, PDF processing pipelines, internal dashboards.
+
+I care more about the shape of a system — how the pieces talk to each other — than about any one line of code. Long-term, I'm aiming for Systems Analyst or Solutions Architect work. Outside of that, I'm into cybersecurity, and I've built an OSINT toolkit as a personal project. When I'm not building, I'm probably deep in Dota 2 or Pokémon.
+
+</div>
+
+---
+
+### 🛠️ Stack I actually use
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=default">
+  <img alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=islacchi&show_icons=true&theme=tokyonight">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=islacchi&layout=compact&theme=tokyonight">
+</picture>
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islacchi/islacchi/output/github-contribution-grid-snake-dark.svg">
