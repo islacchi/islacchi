@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Lo!👋&animation=fadeIn&type=waving&color=gradient&height=120" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%2C%20I'm%20Lo!👋&fontColor=ffffff&fontSize=40">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&text=Hey%2C%20I'm%20Lo!👋&fontColor=ffffff&fontSize=40">
+  <img alt="Hey, I'm Lo!" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%2C%20I'm%20Lo!👋&fontColor=ffffff&fontSize=40">
+</picture>
 
 ### Accounts & Documents Specialist → Aspiring Systems Analyst / Solutions Architect
 
